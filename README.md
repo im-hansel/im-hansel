@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-hansel&label=Profile%20views&color=0e75b6&style=flat" alt="im-hansel" /> </p>
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Expressjs, MongoDB**
+- 🌱 I’m currently learning **Reactjs, Flutter, PHP**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **Flutter**
 
 - 🤝 I’m looking for help with **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/im-hansel](https://github.com/im-hansel)
 
-- 📝 I also take good photos btw [https://www.instagram.com/hans__arts/](https://www.instagram.com/hans__arts/)
+- 📝 I also take very good photos [https://www.instagram.com/hans__arts/](https://www.instagram.com/hans__arts/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **BeingHansel@gmail.com**
 
