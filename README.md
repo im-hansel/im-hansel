@@ -1,5 +1,3 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/42/93/04/1000_F_442930453_W426HrwlnSCgGxPdj8MmMD2EHj1Z5y5Z.jpg)]
-
 # Hi 👋, I'm Hans Shiraho
 ## A passionate Software Engineer from Nairobi
 
