@@ -9,25 +9,23 @@
 
 ---
 
-🔭 I’m currently working on **Flutter, Django, and MERN**
+🔭 I’m currently working on **Django React and Wordpress**
 
 🌱 I’m currently learning **Django**
 
-👯 I’m looking to collaborate on **Flutter**
-
-🤝 I’m looking for help with **MERN Stack**
+👯 I’m looking to collaborate on **React and Wordpress**
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/im-hansel)
 
 📝 I also take very good photos on [Instagram](https://www.instagram.com/hans__arts/)
 
-💬 Ask me about **Flutter and Django**
+💬 Ask me about **Django and Worpress**
 
 📫 How to reach me: [BeingHansel@gmail.com](mailto:BeingHansel@gmail.com)
 
 📄 Know about my experiences on [my website](https://hansshiraho.netlify.app/)
 
-⚡ Fun fact: **I'm all Humour**
+⚡ Fun fact: **A day on Venus is longer than a year on Venus!**
 
 ---
 
