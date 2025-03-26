@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I’m currently working on **Django,React and React Native**
+🔭 I’m currently working on **Python and Javascript**
 
 🌱 I’m currently learning **React Native**
 
