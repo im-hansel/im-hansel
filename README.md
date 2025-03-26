@@ -9,17 +9,17 @@
 
 ---
 
-🔭 I’m currently working on **Django React and Wordpress**
+🔭 I’m currently working on **Django,React and React Native**
 
-🌱 I’m currently learning **Django**
+🌱 I’m currently learning **React Native**
 
-👯 I’m looking to collaborate on **React and Wordpress**
+👯 I’m looking to collaborate on **Django**
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/im-hansel)
 
 📝 I also take very good photos on [Instagram](https://www.instagram.com/hans__arts/)
 
-💬 Ask me about **Django and Worpress**
+💬 Ask me about **Django and React**
 
 📫 How to reach me: [BeingHansel@gmail.com](mailto:BeingHansel@gmail.com)
 
